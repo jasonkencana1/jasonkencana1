@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | SAIT Grad | This page shows my journey from school aswell as self-projects. Let's connect!</h3>
 <img align="right" alt="codingimage" width="400" src=https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966>
 
-- 📫 reach me on **jasonalfonza1@gmail.com**
+<h3 align="left">📫 reach me on jasonalfonza1@gmail.com</h3> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
